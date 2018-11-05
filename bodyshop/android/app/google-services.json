@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463722684311",
+    "firebase_url": "https://promasterbodyshop-c8451.firebaseio.com",
+    "project_id": "promasterbodyshop-c8451",
+    "storage_bucket": "promasterbodyshop-c8451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463722684311:android:8ea474f34d175367",
+        "android_client_info": {
+          "package_name": "promaster.bodyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463722684311-u3oiot3ct0ui248jut1tkmdj6us9i8ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCWLBlnz917DroL-dN-tXs63cPO6pggJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
