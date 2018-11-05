@@ -1,4 +1,4 @@
-name: flutter_app
+name: bodyshop
 description: A new Flutter application.
 
 # The following defines the version and build number for your application.
@@ -16,6 +16,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_launcher_icons: "^0.6.1"
+
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
@@ -24,6 +26,16 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_launcher_icons: "^0.6.1"
+
+flutter_icons:
+  android: true
+  ios: "Example-Icon"
+  image_path: "assets/icon/ProMaster.png"
+  image_path_android: "assets/icon/ProMaster.png"
+  image_path_ios: "assets/icon/ProMaster.png"
+  adaptive_icon_background: "#FFFAFAFA"
+  adaptive_icon_foreground: "assets/icon/ProMaster.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
