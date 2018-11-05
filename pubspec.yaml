@@ -30,12 +30,10 @@ dev_dependencies:
 
 flutter_icons:
   android: true
-  ios: "Example-Icon"
+  ios: true
   image_path: "assets/icon/ProMaster.png"
   image_path_android: "assets/icon/ProMaster.png"
   image_path_ios: "assets/icon/ProMaster.png"
-  adaptive_icon_background: "#FFFAFAFA"
-  adaptive_icon_foreground: "assets/icon/ProMaster.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
